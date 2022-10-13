@@ -2,6 +2,9 @@
 compiled/
 doc/
 
+# Haskell-generated files
+.stack-work/
+
 # Editor-generated files
 *~
 \#*
